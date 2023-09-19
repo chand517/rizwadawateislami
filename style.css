@@ -1,0 +1,132 @@
+*a{text-decoration: none;
+}
+.section{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.section h2.section-head{
+ color: black;
+ text-align: center;
+ margin-bottom: 40px;
+}
+.border1{
+    background-color:#F2F2F2;
+    margin-top: 50px;
+    margin-left: 30px;
+    width: 270px;
+    color: red;
+}
+p.border1{ 
+    border: 1px solid black;
+}
+.con{
+    background-color: #3B3B79;
+    height: 80px;
+    margin-top: 20px;
+}
+.btn{
+    
+    padding: 15px;
+    background-color: #DEA73C;
+    width: 200px;
+    height: 80px;
+}
+.dr{
+   padding-left: 15px;
+    background-color: #D84148;
+    width: 200px;
+    height: 80px;
+    color: #fff;
+}
+i.fa-solid{
+    text-align: center;
+    padding-top: 30px;
+    color: #3B3B79;
+    font-size: 60px;
+}
+h5.card-title{
+    text-align: center;
+    font-size: 25px;
+}
+p.card-text{
+    text-align: center;
+    color:#87878D;
+}
+div.card{
+    height: 250px;
+}
+.tow-div{
+    border: 1px solid black;
+    margin-top: 60px;
+    width: 1400px;
+    margin-left: 0%;
+    background:#1B1B1B;
+    height: 600px;
+}
+h4.para1{
+    color:#D5787C;
+    border: 1px solid red;
+    background: #fff;
+    width: 410px;
+}
+h3.para2{
+    color: #fff;
+}
+p.para3{
+    color: #fff;
+}
+button.btn0{
+    margin-top: 10px;
+    color: #fff;
+    background: #D84148;
+    width: 100px;
+    height: 50px;
+}
+p.para4{
+    color: #fff;
+    background-color: #D84148;
+    width: 200px;
+    height: 155px;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 25px;
+}
+button.btn5{
+    width: 600px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: #D84148;
+    color: #fff;
+    border: none;
+}
+button.btn5:hover{
+    background-color:black ;
+}
+div.footr{
+    border: 1px solid black;
+    height: 400px;
+    background: #000;
+    color: #fff;
+    padding-left: 50px;
+}
+.img-logo,p{
+    
+    margin-top: 30px;
+    
+}
+i.fa-brands{
+    padding-left: 10px;
+}
+ul li{
+    list-style: none;
+    padding-top: 20px;
+}
+ul li a{
+    text-decoration: none;
+    color:white ;
+    
+
+}
+h2{
+    margin-top: 40px;
+}
